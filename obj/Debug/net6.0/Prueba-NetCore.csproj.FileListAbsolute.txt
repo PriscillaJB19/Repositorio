@@ -1,0 +1,15 @@
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\bin\Debug\net6.0\Prueba-NetCore.exe
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\bin\Debug\net6.0\Prueba-NetCore.deps.json
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\bin\Debug\net6.0\Prueba-NetCore.runtimeconfig.json
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\bin\Debug\net6.0\Prueba-NetCore.dll
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\bin\Debug\net6.0\Prueba-NetCore.pdb
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\obj\Debug\net6.0\Prueba-NetCore.csproj.AssemblyReference.cache
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\obj\Debug\net6.0\Prueba-NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\obj\Debug\net6.0\Prueba-NetCore.AssemblyInfoInputs.cache
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\obj\Debug\net6.0\Prueba-NetCore.AssemblyInfo.cs
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\obj\Debug\net6.0\Prueba-NetCore.csproj.CoreCompileInputs.cache
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\obj\Debug\net6.0\Prueba-NetCore.dll
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\obj\Debug\net6.0\refint\Prueba-NetCore.dll
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\obj\Debug\net6.0\Prueba-NetCore.pdb
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\obj\Debug\net6.0\Prueba-NetCore.genruntimeconfig.cache
+C:\Users\ana.jimenez\Desktop\Prueba-NetCore\obj\Debug\net6.0\ref\Prueba-NetCore.dll
